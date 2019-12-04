@@ -48,4 +48,15 @@ server.put('/projects/:id', (req, res) => {
   return res.json(project);
 });
 
+// Deleta o projeto com id nos parâmetros da rota.
+server.delete('/projects/:id', (req, res) => {
+  const { id } = req.params;
+
+  const projectIndex = projects.findIndex(p => p.id == id);
+
+  projects.splice(projectIndex, 1);
+
+  return res.send();
+});
+
 server.listen(4000);
