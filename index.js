@@ -26,6 +26,15 @@ function checkExistsProject(req, res, next) {
   return next();
 };
 
+// Middleware com log das requisições
+function logRequests(req, res, next) {
+  console.count("Número de requisições");
+
+  return next();
+};
+
+server.use(logRequests);
+
 // Mostra todos os projetos.
 server.get('/projects', (req, res) => {
   return res.json(projects);
