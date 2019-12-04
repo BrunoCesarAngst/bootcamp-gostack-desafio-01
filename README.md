@@ -3,10 +3,10 @@
 </h1>
 
 <h3 align="center">
-  Desafio 1: Conceitos do NodeJS
+  Conceitos do NodeJS - Cadastro de projetos e tarefas com log de requisição
 </h3>
 
-<blockquote align="center">“A única limitação é o, eu não posso”!</blockquote>
+<blockquote align="center">“A única limitação é o, eu não posso!”</blockquote>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
@@ -23,11 +23,11 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-sobre-o-projeto">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
-## :rocket: Sobre o desafio
+## :rocket: Sobre o projeto
 
 Uma aplicação para armazenar projetos e suas tarefas do zero utilizando [Express](https://expressjs.com/pt-br/).
 
