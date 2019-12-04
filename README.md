@@ -72,7 +72,7 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 
 - Criei um middleware que será utilizado em todas rotas que recebem o ID do projeto nos parâmetros da URL que verifica se o projeto com aquele ID existe. Se não existir retorne um erro, caso contrário permita a requisição continuar normalmente;
 <h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+    <img alt="all projects" src="https://github.com/BrunoCesarAngst/bootcamp-gostack-desafio-01/blob/master/images/all%20projects%20de%2003-dezembro-2019%20as%2023:23:25%20em%20uma%20ter%C3%A7a%20da%20semana%2049.png" width="200px" />
 </h1>
 
 - Criei um middleware global chamado em todas requisições que imprime (`console.log`) uma contagem de quantas requisições foram feitas na aplicação até então;
