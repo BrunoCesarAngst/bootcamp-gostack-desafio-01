@@ -31,7 +31,7 @@ Uma aplicação para armazenar projetos e suas tarefas do zero utilizando [Expre
 
 - `POST /projects`: A rota recebe `id` e `title` dentro do corpo e cadastra um novo projeto dentro de um array no seguinte formato: `{ id: "1", title: 'Novo projeto', tasks: [] }`; Certifico de enviar tanto o ID quanto o título do projeto no formato string com aspas duplas.
 <h1 align="center">
-    <img alt="GoStack" src="https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/bootcamp-header.png" width="200px" />
+    <img alt="all projects" src="https://github.com/BrunoCesarAngst/bootcamp-gostack-desafio-01/blob/master/images/all%20projects%20de%2003-dezembro-2019%20as%2023:23:25%20em%20uma%20ter%C3%A7a%20da%20semana%2049.png" width="300px" />
 </h1>
 
 - `GET /projects`: Rota que lista todos projetos e suas tarefas;
