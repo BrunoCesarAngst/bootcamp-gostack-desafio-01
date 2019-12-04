@@ -11,9 +11,9 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-01?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
+  <!-- <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
+  </a> -->
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
@@ -66,7 +66,3 @@ Se eu chamar a rota `POST /projects` repassando `{ id: 1, title: 'Novo projeto' 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/BrunoCesarAngst/bootcamp-gostack-desafio-01/blob/master/LICENSE) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
